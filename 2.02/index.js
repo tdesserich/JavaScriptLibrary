@@ -1,2 +1,2 @@
-// This is a JavaScript alert
+// This is a JavaScript alert!
 alert('JavaScript Working!')
